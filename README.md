@@ -11,9 +11,7 @@ https://www.python.org/downloads/
 
 Once it's installed, open a command window and try the following command
 
-```
-python -V
-````
+```python -V````
 
 You should see something like 
 
@@ -32,3 +30,8 @@ pandas
 ```pip install pandas```
 
 Now both of the libraries needed to run the script are now installed.
+
+
+
+
+
